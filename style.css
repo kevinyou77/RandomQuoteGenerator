@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(111,211,111);
+    font-family: 'PT Serif', serif;
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#content {
+    background-color: white;
+    line-height: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+#quoteContent {
+    width: 400px;
+}
+
+#content a {
+    margin: 0;
+    float:left;
+    padding-left: 7px;
+    height: 30px;
+    width: 30px;
+    color: black;
+}
+
+button {
+    border: 0;
+    text-decoration: none;
+    float: right;
+    height: 20px;
+    width: 100px;
+}
